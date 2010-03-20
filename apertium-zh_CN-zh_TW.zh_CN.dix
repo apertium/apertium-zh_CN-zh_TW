@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+	<sdefs>
+	   <sdef n="n"/>
+	   <sdef n="v"/>
+	   <sdef n="adj"/>
+	   <sdef n="part"/>
+	   <sdef n="count"/>
+	   <sdef n="代"/>
+	   <sdef n="sg"/>
+	   <sdef n="pl"/>
+	</sdefs>
+	
+	<pardefs>
+		<pardef n="我__代">
+		   <e>
+			 <p>
+			   <l/>
+			   <r><s n="代"/><s n="sg"/></r>
+			 </p>
+		   </e>
+		   <e>
+			 <p>
+			   <l>们</l>
+			   <r><s n="代"/><s n="pl"/></r>
+			 </p>
+		   </e>
+		</pardef>
+	</pardefs>
+	<section id="main" type="standard">
+		<e lm="我"><i>我</i><par n="我__代"/></e>
+		<e lm="你"><i>你</i><par n="我__代"/></e>
+		<e lm="他"><i>他</i><par n="我__代"/></e>
+		<e lm="她"><i>她</i><par n="我__代"/></e>
+		<e lm="它"><i>它</i><par n="我__代"/></e>
+		<e lm="咱"><i>咱</i><par n="我__代"/></e>
+	</section>
+
+
+</dictionary>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+   <alphabet/>
+   <sdefs>
+     <sdef n="n"/>
+     <sdef n="sg"/>
+     <sdef n="pl"/>
+     <sdef n="代"/>
+   </sdefs>
+
+   <section id="main" type="standard">
+		<e><p><l>我<s n="代"/></l><r>我<s n="代"/></r></p></e>
+		<e><p><l>你<s n="代"/></l><r>你<s n="代"/></r></p></e>
+		<e><p><l>他<s n="代"/></l><r>他<s n="代"/></r></p></e>
+		<e><p><l>她<s n="代"/></l><r>她<s n="代"/></r></p></e>
+		<e><p><l>它<s n="代"/></l><r>它<s n="代"/></r></p></e>
+		<e><p><l>咱<s n="代"/></l><r>咱<s n="代"/></r></p></e>
+   </section>
+</dictionary>

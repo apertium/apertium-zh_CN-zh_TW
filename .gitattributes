@@ -1,1 +1,6 @@
 * text=auto !eol
+/apertium-zh_CN-zh_TW.zh_CN-zh_TW.dix -text
+/apertium-zh_CN-zh_TW.zh_CN-zh_TW.t1x -text
+/apertium-zh_CN-zh_TW.zh_CN.dix -text
+/apertium-zh_CN-zh_TW.zh_TW.dix -text
+/compile.sh -text
