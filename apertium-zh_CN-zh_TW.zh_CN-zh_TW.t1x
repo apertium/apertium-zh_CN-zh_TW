@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer>
 	<section-def-cats>
-		<def-cat n="代">
-		   <cat-item tags="代.*"/>
+		<def-cat n="n">
+		   <cat-item tags="n.*"/>
 		</def-cat>
 
 	</section-def-cats>
@@ -12,8 +12,8 @@
 		   <attr-item tags="pl"/>
 		</def-attr>
 		
-		<def-attr n="a_代">
-		   <attr-item tags="代"/>
+		<def-attr n="a_noun">
+		   <attr-item tags="n"/>
 		</def-attr>
 
 
@@ -27,13 +27,13 @@
 	<section-rules>
 		<rule>
 		   <pattern>
-			 <pattern-item n="代"/>
+			 <pattern-item n="n"/>
 		   </pattern>
 		   <action>
 			 <out>
 			   <lu>
 				 <clip pos="1" side="tl" part="lem"/>
-				 <clip pos="1" side="tl" part="a_代"/>
+				 <clip pos="1" side="tl" part="a_noun"/>
 				 <clip pos="1" side="tl" part="nbr"/>
 			   </lu>
 			 </out>
