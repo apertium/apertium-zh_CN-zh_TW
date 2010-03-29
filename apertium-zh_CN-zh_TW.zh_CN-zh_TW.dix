@@ -364,10 +364,8 @@
 		<e><p><l>宴会<s n="n"/></l><r>宴會<s n="n"/></r></p></e>
 		<e><p><l>羊<s n="n"/></l><r>羊<s n="n"/></r></p></e>
 		<e><p><l>样子<s n="n"/></l><r>樣子<s n="n"/></r></p></e>
-
 		<e><p><l>药<s n="n"/></l><r>藥<s n="n"/></r></p></e>
 		<e><p><l>夜<s n="n"/></l><r>夜<s n="n"/></r></p></e>
-
 		<e><p><l>医生<s n="n"/></l><r>醫生<s n="n"/></r></p></e>
 		<e><p><l>医院<s n="n"/></l><r>醫院<s n="n"/></r></p></e>
 		<e><p><l>衣服<s n="n"/></l><r>衣服<s n="n"/></r></p></e>
@@ -434,7 +432,16 @@
 		<e><p><l>变化<s n="n"/></l><r>變化<s n="n"/></r></p></e>
 		<e><p><l>差<s n="n"/></l><r>差<s n="n"/></r></p></e>
 		<e><p><l>病<s n="n"/></l><r>病<s n="n"/></r></p></e>
-		
+		<e><p><l>带<s n="n"/></l><r>帶<s n="n"/></r></p></e>
+		<e><p><l>代表<s n="n"/></l><r>代表<s n="n"/></r></p></e>
+		<e><p><l>等<s n="n"/></l><r>等<s n="n"/></r></p></e>
+		<e><p><l>反对<s n="n"/></l><r>反對<s n="n"/></r></p></e>
+		<e><p><l>服务<s n="n"/></l><r>服務<s n="n"/></r></p></e>
+		<e><p><l>感冒<s n="n"/></l><r>感冒<s n="n"/></r></p></e>
+		<e><p><l>感谢<s n="n"/></l><r>感謝<s n="n"/></r></p></e>
+		<e><p><l>干<s n="n"/></l><r>幹<s n="n"/></r></p></e>
+		<e><p><l>关系<s n="n"/></l><r>關係<s n="n"/></r></p></e>
+		<e><p><l>花<s n="vblex"/></l><r>花<s n="vblex"/></r></p></e>
 		
 		
 		
@@ -462,7 +469,6 @@
 		<e><p><l>唱<s n="vblex"/></l><r>唱<s n="vblex"/></r></p></e>
 		<e><p><l>朝<s n="vblex"/></l><r>朝<s n="vblex"/></r></p></e>
 		<e><p><l>成<s n="vblex"/></l><r>成<s n="vblex"/></r></p></e>
-		
 		<e><p><l>吃<s n="vblex"/></l><r>吃<s n="vblex"/></r></p></e>
 		<e><p><l>迟到<s n="vblex"/></l><r>遲到<s n="vblex"/></r></p></e>
 		<e><p><l>抽<s n="vblex"/></l><r>抽<s n="vblex"/></r></p></e>
@@ -482,7 +488,6 @@
 		<e><p><l>得<s n="vblex"/></l><r>得<s n="vblex"/></r></p></e>
 		<e><p><l>等<s n="vblex"/></l><r>等<s n="vblex"/></r></p></e>
 		<e><p><l>低<s n="vblex"/></l><r>低<s n="vblex"/></r></p></e>
-		<e><p><l>点<s n="vblex"/></l><r>點<s n="vblex"/></r></p></e>
 		<e><p><l>掉<s n="vblex"/></l><r>掉<s n="vblex"/></r></p></e>
 		<e><p><l>丢<s n="vblex"/></l><r>丟<s n="vblex"/></r></p></e>
 		<e><p><l>懂<s n="vblex"/></l><r>懂<s n="vblex"/></r></p></e>
@@ -514,7 +519,6 @@
 		<e><p><l>感冒<s n="vblex"/></l><r>感冒<s n="vblex"/></r></p></e>
 		<e><p><l>感谢<s n="vblex"/></l><r>感謝<s n="vblex"/></r></p></e>
 		<e><p><l>干<s n="vblex"/></l><r>幹<s n="vblex"/></r></p></e>
-		<e><p><l>高兴<s n="vblex"/></l><r>高興<s n="vblex"/></r></p></e>
 		<e><p><l>搞<s n="vblex"/></l><r>搞<s n="vblex"/></r></p></e>
 		<e><p><l>告诉<s n="vblex"/></l><r>告訴<s n="vblex"/></r></p></e>
 		<e><p><l>跟<s n="vblex"/></l><r>跟<s n="vblex"/></r></p></e>
@@ -531,6 +535,7 @@
 		<e><p><l>好像<s n="vblex"/></l><r>好像<s n="vblex"/></r></p></e>
 		<e><p><l>喝<s n="vblex"/></l><r>喝<s n="vblex"/></r></p></e>
 		<e><p><l>花<s n="vblex"/></l><r>花<s n="vblex"/></r></p></e>
+		
 		<e><p><l>画<s n="vblex"/></l><r>畫<s n="vblex"/></r></p></e>
 		<e><p><l>欢迎<s n="vblex"/></l><r>歡迎<s n="vblex"/></r></p></e>
 		<e><p><l>还<s n="vblex"/></l><r>還<s n="vblex"/></r></p></e>

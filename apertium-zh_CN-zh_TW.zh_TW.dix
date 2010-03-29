@@ -364,12 +364,9 @@
 		<e lm="下午"><i>下午</i><par n="愛人__n"/></e>
 		<e lm="夏"><i>夏</i><par n="愛人__n"/></e>
 		<e lm="夏天"><i>夏天</i><par n="愛人__n"/></e>
-
 		<e lm="先生"><i>先生</i><par n="愛人__n"/></e>
 		<e lm="現代"><i>現代</i><par n="愛人__n"/></e>
-
 		<e lm="香蕉"><i>香蕉</i><par n="愛人__n"/></e>
-
 		<e lm="消息"><i>消息</i><par n="愛人__n"/></e>
 		<e lm="小孩兒"><i>小孩兒</i><par n="愛人__n"/></e>
 		<e lm="小孩"><i>小孩</i><par n="愛人__n"/></e>
@@ -469,7 +466,16 @@
 		<e lm="變化"><i>變化</i><par n="愛人__n"/></e>
 		<e lm="差"><i>差</i><par n="愛人__n"/></e>
 		<e lm="病"><i>病</i><par n="愛人__n"/></e>
-
+		<e lm="帶"><i>帶</i><par n="愛人__n"/></e>
+		<e lm="代表"><i>代表</i><par n="愛人__n"/></e>
+		<e lm="等"><i>等</i><par n="愛人__n"/></e>
+		<e lm="反對"><i>反對</i><par n="愛人__n"/></e>
+		<e lm="服務"><i>服務</i><par n="愛人__n"/></e>
+		<e lm="感冒"><i>感冒</i><par n="愛人__n"/></e>
+		<e lm="感謝"><i>感謝</i><par n="愛人__n"/></e>
+		<e lm="幹"><i>幹</i><par n="愛人__n"/></e>
+		<e lm="關係"><i>關係</i><par n="愛人__n"/></e>
+		<e lm="花"><i>花</i><par n="愛人__n"/></e>
 		
 		
 		<e lm="愛"><i>愛</i><par n="愛__vblex"/></e>
@@ -515,7 +521,6 @@
 		<e lm="得"><i>得</i><par n="愛__vblex"/></e>
 		<e lm="等"><i>等</i><par n="愛__vblex"/></e>
 		<e lm="低"><i>低</i><par n="愛__vblex"/></e>
-		<e lm="點"><i>點</i><par n="愛__vblex"/></e>
 		<e lm="掉"><i>掉</i><par n="愛__vblex"/></e>
 		<e lm="丟"><i>丟</i><par n="愛__vblex"/></e>
 		<e lm="懂"><i>懂</i><par n="愛__vblex"/></e>
@@ -547,7 +552,6 @@
 		<e lm="感冒"><i>感冒</i><par n="愛__vblex"/></e>
 		<e lm="感謝"><i>感謝</i><par n="愛__vblex"/></e>
 		<e lm="幹"><i>幹</i><par n="愛__vblex"/></e>
-		<e lm="高興"><i>高興</i><par n="愛__vblex"/></e>
 		<e lm="搞"><i>搞</i><par n="愛__vblex"/></e>
 		<e lm="告訴"><i>告訴</i><par n="愛__vblex"/></e>
 		<e lm="跟"><i>跟</i><par n="愛__vblex"/></e>
@@ -564,6 +568,7 @@
 		<e lm="好像"><i>好像</i><par n="愛__vblex"/></e>
 		<e lm="喝"><i>喝</i><par n="愛__vblex"/></e>
 		<e lm="花"><i>花</i><par n="愛__vblex"/></e>
+		
 		<e lm="畫"><i>畫</i><par n="愛__vblex"/></e>
 		<e lm="歡迎"><i>歡迎</i><par n="愛__vblex"/></e>
 		<e lm="還"><i>還</i><par n="愛__vblex"/></e>

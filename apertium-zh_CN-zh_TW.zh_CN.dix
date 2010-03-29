@@ -463,9 +463,16 @@
 		<e lm="变化"><i>变化</i><par n="爱人__n"/></e>
 		<e lm="差"><i>差</i><par n="爱人__n"/></e>
 		<e lm="病"><i>病</i><par n="爱人__n"/></e>
-		
-		
-		
+		<e lm="带"><i>带</i><par n="爱人__n"/></e>
+		<e lm="代表"><i>代表</i><par n="爱人__n"/></e>
+		<e lm="等"><i>等</i><par n="爱人__n"/></e>
+		<e lm="反对"><i>反对</i><par n="爱人__n"/></e>
+		<e lm="服务"><i>服务</i><par n="爱人__n"/></e>
+		<e lm="感冒"><i>感冒</i><par n="爱人__n"/></e>
+		<e lm="感谢"><i>感谢</i><par n="爱人__n"/></e>
+		<e lm="干"><i>干</i><par n="爱人__n"/></e>
+		<e lm="关系"><i>关系</i><par n="爱人__n"/></e>
+		<e lm="花"><i>花</i><par n="爱人__n"/></e>
 		
 		
 		<e lm="爱"><i>爱</i><par n="爱__vblex"/></e>
@@ -511,7 +518,6 @@
 		<e lm="得"><i>得</i><par n="爱__vblex"/></e>
 		<e lm="等"><i>等</i><par n="爱__vblex"/></e>
 		<e lm="低"><i>低</i><par n="爱__vblex"/></e>
-		<e lm="点"><i>点</i><par n="爱__vblex"/></e>
 		<e lm="掉"><i>掉</i><par n="爱__vblex"/></e>
 		<e lm="丢"><i>丢</i><par n="爱__vblex"/></e>
 		<e lm="懂"><i>懂</i><par n="爱__vblex"/></e>
@@ -543,7 +549,6 @@
 		<e lm="感冒"><i>感冒</i><par n="爱__vblex"/></e>
 		<e lm="感谢"><i>感谢</i><par n="爱__vblex"/></e>
 		<e lm="干"><i>干</i><par n="爱__vblex"/></e>
-		<e lm="高兴"><i>高兴</i><par n="爱__vblex"/></e>
 		<e lm="搞"><i>搞</i><par n="爱__vblex"/></e>
 		<e lm="告诉"><i>告诉</i><par n="爱__vblex"/></e>
 		<e lm="跟"><i>跟</i><par n="爱__vblex"/></e>
@@ -560,6 +565,7 @@
 		<e lm="好像"><i>好像</i><par n="爱__vblex"/></e>
 		<e lm="喝"><i>喝</i><par n="爱__vblex"/></e>
 		<e lm="花"><i>花</i><par n="爱__vblex"/></e>
+		
 		<e lm="画"><i>画</i><par n="爱__vblex"/></e>
 		<e lm="欢迎"><i>欢迎</i><par n="爱__vblex"/></e>
 		<e lm="还"><i>还</i><par n="爱__vblex"/></e>
@@ -753,15 +759,70 @@
 		<e lm="比"><i>比</i><par n=""/></e> 
 		<e><p><l>比<s n=""/></l><r>比<s n=""/></r></p></e>
 
-				<e lm="病"><i>病</i><par n=""/></e> 病 [bing4] /ailment/sickness/illness/disease/fall ill/sick/defect/CL:場|场[chang2]/
+		<e lm="病"><i>病</i><par n=""/></e> 病 [bing4] /ailment/sickness/illness/disease/fall ill/sick/defect/CL:場|场[chang2]/
 		<e lm="病"><i>病</i><par n=""/></e> 
 		<e><p><l>病<s n=""/></l><r>病<s n=""/></r></p></e>
 
 
+		<e lm="当"><i>当</i><par n=""/></e> 当 [dang1] /to be/to act as/manage/withstand/when/during/ought/should/match equally/equal/same/obstruct/just at (a time or place)/on the spot/right/just at/
+		<e lm="當"><i>當</i><par n=""/></e> 
+		<e><p><l>当<s n=""/></l><r>當<s n=""/></r></p></e>
 
+		<e lm="当"><i>当</i><par n=""/></e> 当 [dang4] /at or in the very same.../to pawn/suitable/adequate/fitting/proper/replace/represent/
+		<e lm="當"><i>當</i><par n=""/></e> 
+		<e><p><l>当<s n=""/></l><r>當<s n=""/></r></p></e>
 
+		<e lm="得"><i>得</i><par n=""/></e> 得 [de5] /structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc/
+		<e lm="得"><i>得</i><par n=""/></e> 
+		<e><p><l>得<s n=""/></l><r>得<s n=""/></r></p></e>
+		
+		<e lm="等"><i>等</i><par n=""/></e> 等 [deng3] /class/rank/grade/equal to/same as/to wait for/to await/et cetera/and so on/et al. (and other authors)/after/as soon as/once/
+		<e lm="等"><i>等</i><par n=""/></e> 
+		<e><p><l>等<s n=""/></l><r>等<s n=""/></r></p></e>
 
+		<e lm="低"><i>低</i><par n=""/></e> 低 [di1] /low/beneath/to lower (one's head)/to let droop/to hang down/to incline/
+		<e lm="低"><i>低</i><par n=""/></e> 
+		<e><p><l>低<s n=""/></l><r>低<s n=""/></r></p></e>
+		
+		<e lm="对"><i>对</i><par n=""/></e> 对 [dui4] /couple/pair/to be opposite/to oppose/to face/versus/for/to/correct (answer)/to answer/to reply/to direct (towards sth)/right/
+		<e lm="對"><i>對</i><par n=""/></e> 
+		<e><p><l>对<s n=""/></l><r>對<s n=""/></r></p></e>
+		
+		<e lm="发"><i>发</i><par n=""/></e> 发 [fa4] /hair/Taiwan pr. fa3/
+		<e lm="髮"><i>髮</i><par n=""/></e> 
+		<e><p><l>发<s n=""/></l><r>髮<s n=""/></r></p></e>
 
+		<e lm="方便"><i>方便</i><par n=""/></e> 方便 [fang1 bian4] /convenient/to help out/to make things easy for people/convenience/suitable/having money to spare/(euphemism) to go to the toilet/
+		<e lm="方便"><i>方便</i><par n=""/></e> 
+		<e><p><l>方便<s n=""/></l><r>方便<s n=""/></r></p></e>
+		
+		<e lm="分"><i>分</i><par n=""/></e> 分 [fen1] /to divide/to separate/to allocate/to distinguish (good and bad)/part or subdivision/fraction/one tenth (of certain units)/unit of length equivalent to 0.33 cm/minute/a point (in sports or games)/0.01 yuan (unit of money)/
+		<e lm="分"><i>分</i><par n=""/></e> 
+		<e><p><l>分<s n=""/></l><r>分<s n=""/></r></p></e>
 
-
+		<e lm="分"><i>分</i><par n=""/></e> 分 [fen4] /part/ingredient/component/
+		<e lm="分"><i>分</i><par n=""/></e> 
+		<e><p><l>分<s n=""/></l><r>分<s n=""/></r></p></e>
+		
+		<e lm="丰富"><i>丰富</i><par n=""/></e> 丰富 [feng1 fu4] /to enrich/rich/plentiful/abundant/
+		<e lm="豐富"><i>豐富</i><par n=""/></e> 
+		<e><p><l>丰富<s n=""/></l><r>豐富<s n=""/></r></p></e>
+		
+		<e lm="该"><i>该</i><par n=""/></e> 该 [gai1] /should/ought to/most likely/to deserve/to owe/to be sb's turn to do sth/that/the above-mentioned/
+		<e lm="該"><i>該</i><par n=""/></e> 
+		<e><p><l>该<s n=""/></l><r>該<s n=""/></r></p></e>
+		
+		<e lm="高兴"><i>高兴</i><par n=""/></e> 高兴 [gao1 xing4] /happy/glad/willing (to do sth)/in a cheerful mood/
+		<e lm="高興"><i>高興</i><par n=""/></e> 
+		<e><p><l>高兴<s n=""/></l><r>高興<s n=""/></r></p></e>
+				
+		<e lm="跟"><i>跟</i><par n=""/></e> 跟 [gen1] /heel/to follow closely/to go with/to marry sb (of woman)/with/towards/as (compared to)/from (different from)/and (in addition to)/
+		<e lm="跟"><i>跟</i><par n=""/></e> 
+		<e><p><l>跟<s n=""/></l><r>跟<s n=""/></r></p></e>
+		
+		<e lm="过"><i>过</i><par n=""/></e> 过 [guo4] /(experienced action marker)/to cross/to go over/to pass (time)/to celebrate (a holiday)/to live/to get along/excessively/too-/surname Guo/
+		<e lm="過"><i>過</i><par n=""/></e> 
+		<e><p><l>过<s n=""/></l><r>過<s n=""/></r></p></e>
+		
+		
 -->
